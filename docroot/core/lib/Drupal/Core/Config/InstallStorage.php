@@ -26,7 +26,7 @@ class InstallStorage extends FileStorage {
   /**
    * Extension sub-directory containing default configuration for installation.
    */
-  const \CONFIG_INSTALL_DIRECTORY = 'config/install';
+  const CONFIG_INSTALL_DIRECTORY = 'config/install';
 
   /**
    * Extension sub-directory containing optional configuration for installation.
